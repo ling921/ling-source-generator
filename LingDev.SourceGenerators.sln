@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{377030E6-3EA0-42DD-9838-A82A565E30D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LingDev.SourceGeneration", "src\Core\LingDev.SourceGeneration.csproj", "{910727B2-82C4-4A85-8C1B-437BDE14B12B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LingDev.SourceGeneration", "src\Core\LingDev.SourceGeneration\LingDev.SourceGeneration.csproj", "{910727B2-82C4-4A85-8C1B-437BDE14B12B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audit", "Audit", "{14B7A83A-18A8-48A3-98A4-B9AD7ED37C12}"
 EndProject

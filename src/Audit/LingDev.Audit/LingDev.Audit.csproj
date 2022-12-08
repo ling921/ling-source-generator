@@ -33,7 +33,7 @@
     <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.3.3" PrivateAssets="all" />
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.4.0" PrivateAssets="all" />
     <ProjectReference Include="..\LingDev.Audit.Abstractions\LingDev.Audit.Abstractions.csproj" PrivateAssets="all" />
-    <ProjectReference Include="..\..\Core\LingDev.SourceGeneration.csproj" PrivateAssets="all" />
+    <ProjectReference Include="..\..\Core\LingDev.SourceGeneration\LingDev.SourceGeneration.csproj" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
