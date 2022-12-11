@@ -2,7 +2,7 @@
 using Microsoft.CodeAnalysis;
 using System.Diagnostics;
 
-namespace LingDev.SourceGeneration.Reflection;
+namespace Ling.Reflection;
 
 internal class MetadataLoadContextInternal
 {

@@ -1,5 +1,4 @@
-﻿using LingDev.SourceGeneration;
-using LingDev.SourceGeneration.Reflection;
+﻿using Ling.Reflection;
 using Microsoft.CodeAnalysis;
 using System.Collections.Immutable;
 using System.Globalization;

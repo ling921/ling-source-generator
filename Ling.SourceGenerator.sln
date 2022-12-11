@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{377030E6-3EA0-42DD-9838-A82A565E30D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "git", "git", "{B39825D6-8973-4273-90C4-74BABED50D99}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ling.SourceGeneration", "src\Ling.SourceGeneration\Ling.SourceGeneration.csproj", "{4F972904-BF90-4986-B7B4-03D188209881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F972904-BF90-4986-B7B4-03D188209881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F972904-BF90-4986-B7B4-03D188209881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F972904-BF90-4986-B7B4-03D188209881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F972904-BF90-4986-B7B4-03D188209881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F972904-BF90-4986-B7B4-03D188209881} = {377030E6-3EA0-42DD-9838-A82A565E30D2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E73AC8DD-CE74-4F04-9EA0-2B411FDADD87}
+	EndGlobalSection
+EndGlobal

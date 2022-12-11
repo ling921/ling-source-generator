@@ -2,7 +2,7 @@
 using Microsoft.CodeAnalysis;
 using System.Reflection;
 
-namespace LingDev.SourceGeneration.Reflection;
+namespace Ling.Reflection;
 
 internal class AssemblyWrapper : Assembly
 {

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace LingDev.SourceGeneration;
+namespace Ling;
 
 internal static class StringHelper
 {
